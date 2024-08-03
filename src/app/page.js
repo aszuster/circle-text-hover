@@ -20,7 +20,7 @@ export default function Home() {
       >
         <p onMouseEnter={() =>{setIsHovered(true)}} onMouseLeave={() =>{setIsHovered(false)}} className="text-lilac-00 w-[1300px] p-[40px] font-noto font-medium text-[70px] leading-[80px]">
           The bitter scent of lemons remains embedded in my heart <br />
-          I can't make my way home 'til the rain lets up <br />
+          I can&apos;t make my way home &apos;til the rain lets up <br />
         </p>
       </motion.div>
 
